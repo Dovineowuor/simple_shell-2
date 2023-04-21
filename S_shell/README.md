@@ -4,7 +4,7 @@ This is simple shell project, made in a team of two. our main aim is to make it 
 though it doesn't look that much standard but there is use of basic commands,and it incoporates basic requirements.
 
 
-Through this general requirements we made 
+Through this general requirements we made it possible 
 General
 Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
